@@ -1,3 +1,6 @@
+
+# This project has moved to [AccountingApp](https://github.com/proohit/accountingapp) and is no longer maintained in this repository.
+
 # AccountingAppBackend
 See documentation [on documentation page](https://rawcdn.githack.com/proohit/AccountingAppBackend/1d845c8a060e93ef5567cdba5e0b5ab7271ac302/docs/index.html)
 ## run
